@@ -19,7 +19,7 @@ The toolkit simulates a **malaria‑like symptom triage system** using **synthet
 ---
 
 ## 🎯 Purpose
-This project aligns with the **Gates Foundation AI Fellows** mission:
+This project aligns with the **development and use of safe and secure AI** to accomplish communities missions in a trustworthy manner:
 - **Responsible AI**: Bias checks, explainability, and privacy by design
 - **Rapid Prototyping**: Streamlit UI, FastAPI endpoints, and lightweight chatbot
 - **Capacity Building**: Clear, documented code and a learning script for replication
@@ -158,7 +158,7 @@ I designed the **LMIC Health Insights Toolkit** to address these realities:
 - **A/B testing** supports evidence‑based decision‑making for outreach strategies
 
 This is not just a technical exercise — it’s a blueprint for **responsible, deployable AI** that can be adapted to health, education, and agriculture challenges in LMICs.  
-It reflects my commitment to **building AI for public good**, aligning with the Gates Foundation’s vision of equitable, impactful technology.
+It reflects my commitment to **building AI for public good**, aligning with the core safety as well as secure values of AI and vision of equitable, impactful technology.
 
 ---
 
